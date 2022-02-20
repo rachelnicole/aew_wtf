@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import kitten from './kitten.jpeg';
 import './App.css';
 
@@ -9,6 +8,9 @@ function App() {
         <img src={kitten} className="kitten" alt="kitten working" />
         <p>
           Under Construction
+        </p>
+        <p>
+          this site has nothing to do with AEW the company, please do not sue me
         </p>
 
       </header>
